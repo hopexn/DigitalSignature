@@ -1,6 +1,6 @@
 .idea
 .DS_Store
-.o
-.out
+*.o
+*.out
 build
 
